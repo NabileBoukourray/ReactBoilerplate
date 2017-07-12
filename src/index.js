@@ -7,7 +7,7 @@ class App extends Component {
     render() {
         return (
             <div>
-                <h1>React JS Boilerplate</h1>
+                <h1>A Simple React Boilerplate</h1>
             </div>
         );
     }
